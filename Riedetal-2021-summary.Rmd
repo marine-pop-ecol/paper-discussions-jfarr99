@@ -1,0 +1,23 @@
+---
+title: "Reid et al. (2021) Paper Summary"
+author: "Carter, Declan, Jonathan, and Jules"
+date: "10/31/2021"
+output:
+    pdf_document
+---
+
+## Broad Questions
+What are the barriers to implementing this framework as Western Scientists? Why is it your job to do two eyed seeing? As western scientists, why do we have to implement this framework?
+
+## Changing Viewpoints
+At first, students mentioned that they weren’t sure how to establish relationships with Indigenous communities, or how to get in contact with First Nations groups or how to learn what questions Indigenous peoples have that align with their research questions. Other students mentioned a ‘lack of access’ to Indigenous knowledges and Indigenous groups, and said they perceived a lack of respect for Indigenous knowledge in western science. However, these answers fundamentally misunderstood that it is not our job as western scientists to implement Two Eyed Seeing. This discussion helped the class better understand that Two-Eyed Seeing is *not* an "incorporation" or "addition" of Indigenous knowledge to western science or our work (as this is assimilative), but rather an approach to co-developing research with Indigenous communities. It helped us understand that Two-Eyed Seeing involves long standing relationships with Indigenous communities that lead to mutual formation of questions. (co-production of knowledge) These questions are investigated through Indigenous and western research methodologies, and the long term relationships persist. After our discussion,  the class concluded that it is not our job as western scientists to implement this framework, but instead the approach to Two-Eyed Seeing should be mutual and collaborative.  
+
+## Connections
+As discussed above, the point that Alex explained (that western scientists trying to ‘use’ Two Eyed Seeing, or ‘incorporate’ Indigenous knowledge is inherently assimilative) was focused on the central point of the paper. We (as the class) pulled directly from the paper’s definition of Two Eyed Seeing (and the contents of Figure 3) to discuss and learn how Two Eyed Seeing is about cooperative knowledge generation, where Indigenous groups and scientists co-generate questions, co-execute the research, share in the outcomes/benefits of that research. This distinction is best conceptualized in the 2nd and 3rd panes of Figure 3, which Alex pointed out during the discussion.
+
+## Epistomology
+This paper challenged all of our ideas about epistemology by rejecting the idea of there being one knowable truth (a foundational idea of western science). This paper helped us think about how to conceptualize the idea of there being multiple ontological truths and multiple research paradigms. We thought about how multiple research paradigms can address the same or similar questions in radical ways, and how disparate answers to those questions can be rationalized against each other through the idea of there being multiple truths. This will help us address scientific literature in the future by contextualizing this one research paradigm (western science) against many, and remembering that there are other ways of understanding the world that can enrich, disagree with, or broaden what western science literature is offering.
+
+## How Science Happens
+As westernized scientists, this paper highlighted the fact that most current science practices do not cooperatively tackle problems with all knowledge lenses available (let that be any body which holds knowledge). Ironically, science, in practice, attempts to acquire all of the possible information before coming to an unbiased conclusion. Therefore, this paper highlighted that westernized science practices don’t act collaboratively when tackling problems. They fail to acquire all of the present knowledge; colonial bias results in western scientists losing out their ability to be better informed. With respect to western science, Two-Eyed Seeing would likely benefit the field, as co-knowledge generation could expand the knowledge and worldview of western scientists (i.e., it is in the interest of western scientists to embrace collaboration with Indigenous communities and knowledge co-production). Western science, in rejecting other forms of knowledge and other research paradigms, disseminates knowledge as if that knowledge is absolute. This paper makes us realize that this is not the case, and is a good reminder that there are legitimate modes of understanding and knowledge transfer beyond what we are accustomed to in western institutions. Thus, the predominant forms of science that have disseminated upon these westernized institutions represents an inherent bias in the system.
+
