@@ -21,3 +21,95 @@ This paper challenged all of our ideas about epistemology by rejecting the idea 
 ## How Science Happens
 As westernized scientists, this paper highlighted the fact that most current science practices do not cooperatively tackle problems with all knowledge lenses available (let that be any body which holds knowledge). Ironically, science, in practice, attempts to acquire all of the possible information before coming to an unbiased conclusion. Therefore, this paper highlighted that westernized science practices don’t act collaboratively when tackling problems. They fail to acquire all of the present knowledge; colonial bias results in western scientists losing out their ability to be better informed. With respect to western science, Two-Eyed Seeing would likely benefit the field, as co-knowledge generation could expand the knowledge and worldview of western scientists (i.e., it is in the interest of western scientists to embrace collaboration with Indigenous communities and knowledge co-production). Western science, in rejecting other forms of knowledge and other research paradigms, disseminates knowledge as if that knowledge is absolute. This paper makes us realize that this is not the case, and is a good reminder that there are legitimate modes of understanding and knowledge transfer beyond what we are accustomed to in western institutions. Thus, the predominant forms of science that have disseminated upon these westernized institutions represents an inherent bias in the system.
 
+
+\newpage 
+
+# Paper Discussion Outline
+
+## POSITIONALITY STATEMENT:
+We’re talking about a topic that has obvious intersections with reconciliation and our role in it as scientists. We’re learning about science on Huu ay aht territory (Indigenous land). We want to take a minute to create a positionality statement, recognizing that we all have ideas and biases shaped by colonial forces and reconciliatory aims. Each go around and contextualize attitudes and approaches to the topics of reconciliation and Indigenous knowledge. We’ll also note to the class that though we have questions to guide the discussion, we want this to be an open discussion of the role of Two Eyed Seeing in science.
+
+## SUMMARY OF THE PAPER:
+We will briefly summarize the paper, but won't go too far into it. 
+
+## KEY TERMS (more in Table 1, 2, and 3 - highlight these)
+
+### Two-Eyed Seeing:
+The gift of multiple perspectives; a conceptual framework coined by Mi’kmaw Elder Albert Marshall in 2004 for unifying knowledge systems. It is described as “learning to see from one eye with the strengths of Indigenous knowledges and ways of knowing, and from the other eye with the strengths of Western knowledges and ways of knowing, and to use both these eyes together, for the benefit of all”
+
+Two eyed seeing brings people together. It focuses on process not outcome and is an UNENDING pursuit of responsibilities, now and seven generations ahead.
+
+### Research paradigms
+Worldviews with respect to research. Research paradigms are distinguished by specific philosophical attitudes on:
+The nature/understanding of reality (i.e. one or multiple knowable realities)
+Theories of knowledge and knowledge coexistence
+The role of morals and values in research (i.e. ethics of sustainability)
+The purpose and processes of research and research methodologies.
+
+### Traditional Ecological Knowledge VS Indigenous Knowledges:
+#### Traditional ecological knowledge
+The evolving knowledge acquired by indigenous and local peoples over hundreds or thousands of years through direct contact with the environment. Often times seen as a folk term taking away front he diverse realities of these knowledge systems
+
+#### Indigenous knowledges					
+“a cumulative body of knowledge, practice and belief evolving by adaptive processes and handed down through generations by cultural transmission, about the relationship of living beings (including humans) with one another and with their environment”		
+“A critical addition to this definition is that this "situated knowledge" is neither separable from the knowledge holders or keepers, nor is it divisible from the environ- ment in which it is embedded”
+
+Throughout this discussion we want to aim to use the term indigenous knowledges 
+
+### Plural coexistence:
+“A model of cross-cultural relations that acknowledges and respects Indigenous ontologies, or ways of being, and at the same time is attentive to the historical and current dominance of Eurocentric thinking within natural resource management.”
+
+### Double Canoe
+A conceptual framework formalized in 2018 for unifying knowledges and ways of knowing, especially Western and Māori. It is described as “two canoes… lashed together… each canoe represents the worldview and values of the people who are coming together to achieve a common purpose… each group is inherently different, and the knowledge, values and actions of each, are not made to fit into the other”
+
+# GENERAL QUESTIONS
+First address the fact that this paper is not traditionally the type of material we have likely looked at and analyzed in our undergrad. Acknowledge that this discussion should flow organically and doesn’t need to follow the questions/structure outlined below. 
+
+1. Was this paper easily digestible? Did the figures help the paper communicate both aesthetically and functionally? 
+
+2. What are the key components of Two-Eyed Seeing (3)? 
+
+3. Did reading this paper trigger any ideas of how you might want to use knowledge of Two Eyed Seeing into your future academic life?
+
+4. Is it colonial OR decolonial OR neither (?) to try and write an academic paper (published in a western scientific journal) based on two-eyed seeing?
+
+5. Did this paper challenge your understanding of timescales in ecological research & management?
+
+# BREAKOUT GROUPS
+
+## What is two eyed seeing and how does it differ from other inidgenous knowledge frameworks: Figure 1, Table 2, Chapter 3. (Jules)
+1. What were your initial thoughts of the illustrations? (go through each framework)? Are they impactful and useful in this paper?
+2.  What are the differences and similarities between the four conceptual frameworks? 
+3. Which of the four is your favorite framework? Why? What about it speaks to you?
+4. Which do you think would have the most impact on conservation management/naturalist science? 
+5. Are the notions made from the table enough to incorporate two eyed seeing in a legal and practical sense? These policies have been in place for several years now. Have we seen any effect from them yet? Or do you think it's easier said than done? "How could two-eyed seeing be configured and applied"
+6. Do you think that one conceptual framework can be shifted to other places around the world? And should it? How would you suggest implementing this into other communties if they already have a framework that works and in communities that don't have a framework? Is it our place to suggest this? 
+
+## Discuss similarities and differences from the three case studies: what worked with Two Eyed Seeing use and what didn’t? Figure 2 and Chapter 4. (Declan)
+1. Discuss the figure: situate the locality of each case study.
+2. We don’t necessarily consider this primary literature… it's an analysis of what other people have done. What does it mean as we’re reading the paper and do we need to go back to that source literature?
+3. What was the first case study, who were the researchers? What was the role of Two Eyed Seeing?
+4. What were the successes and failures of two eyed seeing in the first case study?
+5. What was the third case study, who were the researchers? What was the role of Two Eyed Seeing?
+6. What were the successes and failures in the third case study?
+7. Why might the first case study have had less tension? What can we learn about applying Two Eyed Seeing in future cases?
+
+## What is two eyed seeing and how does it work? How is it different from knowledge assimilation? Chapter 1 (intro), Chapter 2, Figure 3 (Carter).
+1. What particular visual aspects of this figure helped you understand what the figure is trying to convey? Are there limitations to this kind of a figure? Can you break down knowledge space and decision space?
+2. A common theme in the language of the paper was that considering a plurality of knowledge systems allowed for a more diverse understanding of a topic. This gets at the heart of two eyed seeing specifically. What does that say about the current state of science practices without plurality when it can be applied? (irony & what it means to be a scientist) 
+3. What background with the term two eyed seeing did you guys all come into this paper with? If you had learned about the term before, has your thought process changed on how this could and should be applied in practice? Any previous experiences learning about this in a knowledge assimilation context?
+4. Two eyed seeing is unique compared to other models of knowledge coexistence as it implies that there is responsibility to do something with the knowledge obtained from these practices (a process). Do you think that this point is well captured in this figure? Do you think that this contains the practice of two eyed seeing to an ecological management context? If not where else do you think this framework could be applied?
+5. Addressing the 3 case studies, which one did you interpret to most accurately describe and implement a two eyed seeing approach (from how it was explained in the paper and discussed here)? How do you connect what you see in this figure to that particular case study analyzed? 
+If you feel like you know of other similar case studies like these that aren’t addressed here but also think they did or didn’t follow the outline of this figure this is welcomed too :) ! 
+
+
+## Implementation of Two Eyed Seeing in Research: Figure 4 and Chapter 5 (Jon).
+1. Let’s start by going over the components of the stepwise process outlined in Figure 4. Do they flow logically from one another? Is there anything missing? 
+2. Why do you think this figure doesn’t have a clear end? 
+3. What types of research do you think this framework for applying Two-Eyed Seeing would be most/least effective? 
+4. What do you think are some of the concrete benefits of applying this framework to research?
+5. Given that Two-Eyed Seeing is a place-based concept, do you think it should be applied more broadly to fisheries management across the country, or should other places focus on their own models for knowledge coexistence?
+
+
+
+
